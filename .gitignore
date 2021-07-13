@@ -23,3 +23,6 @@ public/react-test-r3
 .git
 .svn
 .idea
+
+/storage
+/bootstrap/cache
